@@ -1,0 +1,17 @@
+body {
+    background-color: black;
+}
+
+.mmo {
+    width: 100%;
+    font-family: "Rubik Burned", system-ui;
+    color: aliceblue;
+    text-align: center;
+    
+}
+
+.four {
+    width: 50%;
+    border: 5px solid white;
+    margin-top: 50px;
+}
